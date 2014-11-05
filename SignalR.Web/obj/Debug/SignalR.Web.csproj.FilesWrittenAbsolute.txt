@@ -1,0 +1,15 @@
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/SignalR.Web.dll.mdb
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/SignalR.Web.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/obj/Debug/SignalR.Web.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/obj/Debug/SignalR.Web.dll.mdb
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/Microsoft.AspNet.SignalR.Core.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/Microsoft.AspNet.SignalR.SystemWeb.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/Microsoft.Owin.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/Microsoft.Owin.Security.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/Owin.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/Newtonsoft.Json.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/System.Net.Http.Formatting.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/System.Web.Http.dll
+/Users/domino-effect-mbp/Projects/Github/MVCLab/SignalR.Web/bin/System.Web.Http.WebHost.dll
